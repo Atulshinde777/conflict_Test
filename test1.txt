@@ -2,6 +2,6 @@ laptop
 gameing
 professional
 student
-account Employee
+account Employer
 account hr
 account admin
