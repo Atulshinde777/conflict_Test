@@ -4,4 +4,4 @@ professional
 student
 account Employee
 account hr
-account add
+account admin
